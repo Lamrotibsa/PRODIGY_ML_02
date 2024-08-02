@@ -32,7 +32,7 @@ This project uses KMeans clustering to segment customers based on their annual i
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Lamrotibsa/PRODIGY_ML_01.git
+   git clone https://github.com/Lamrotibsa/PRODIGY_ML_02.git
 
 2. **Install Dependencies:**
     ```bash
